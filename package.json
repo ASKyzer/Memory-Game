@@ -2,7 +2,7 @@
   "name": "clickme",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://askyzer.github.io/ClickMe",
+  "homepage": "https://askyzer.github.io/Memory-Game",
   "dependencies": {
     "axios": "^0.18.0",
     "gh-pages": "^1.1.0",
