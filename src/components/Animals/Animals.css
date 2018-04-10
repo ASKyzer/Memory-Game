@@ -1,0 +1,14 @@
+.card {
+  border: none;
+  margin-bottom: 20px;
+}
+
+img {
+  border: 7px outset white;
+  box-shadow: 0 14px 28px rgba(0,0,0,.25),
+              0 10px 10px rgba(0,0,0,.22);
+}
+
+.img-container {
+  background-color: #f0c418;
+}

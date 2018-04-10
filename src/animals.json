@@ -1,0 +1,74 @@
+[
+    {
+        "id": 1,
+        "image": "./assets/images/tiger.jpg",
+        "name": "Cat",
+        "clicked": false
+    },
+    {
+        "id": 2,
+        "image": "./assets/images/fox.jpg",
+        "name": "Fox",
+        "clicked": false
+    },
+    {
+        "id": 3,
+        "image": "./assets/images/gator.jpg",
+        "name": "Gator",
+        "clicked": false
+    },
+    {
+        "id": 4,
+        "image": "./assets/images/hyenna.jpg",
+        "name": "Hyenna",
+        "clicked": false
+    },
+    {
+        "id": 5,
+        "image": "./assets/images/lion.jpg",
+        "name": "Lion",
+        "clicked": false
+    },
+    {
+        "id": 6,
+        "image": "./assets/images/otter.jpg",
+        "name": "Otter",
+        "clicked": false
+    },
+    {
+        "id": 7,
+        "image": "./assets/images/octopus.jpg",
+        "name": "Octopus",
+        "clicked": false
+    },
+    {
+        "id": 8,
+        "image": "./assets/images/panda.jpg",
+        "name": "Panda",
+        "clicked": false
+    },
+    {
+        "id": 9,
+        "image": "./assets/images/raccoon.jpg",
+        "name": "Raccoon",
+        "clicked": false
+    },
+    {
+        "id": 10,
+        "image": "./assets/images/porcupine.jpg",
+        "name": "Porcupine",
+        "clicked": false
+    },
+    {
+        "id": 11,
+        "image": "./assets/images/shark.jpg",
+        "name": "Shark",
+        "clicked": false
+    },
+    {
+        "id": 12,
+        "image": "./assets/images/wolf.jpg",
+        "name": "Wolf",
+        "clicked": false
+    }
+]
